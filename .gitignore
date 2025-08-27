@@ -26,7 +26,6 @@ env/
 .DS_Store
 *.swp
 
-# Dataset and outputs (regenerable)
+# Dataset and run logs (regenerable)
 data/raw/
 runs/
-figures/*.png
